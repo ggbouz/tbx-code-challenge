@@ -32,12 +32,12 @@ npm test
 
 ## React Frontend
 
-The `react-frontend/` directory contains a React application that consumes the Express API.
+The `frontend/` directory contains a React application that consumes the Express API.
 
 ### Setup and Run
 
 ```bash
-cd react-frontend
+cd frontend
 npm install
 npm start
 ```
